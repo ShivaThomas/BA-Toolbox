@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="release_notes" label="Revision history" language="en" table="x_snc_ba_tools_ba_root">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>release_notes</element>
+            <help/>
+            <hint>Description on what changed to allow easier validation from the Stakeholders. Every time you enter new release notes, the version number will be increased by one.</hint>
+            <label>Revision history</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_root</name>
+            <plural>Revision histories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 10:26:44</sys_created_on>
+            <sys_id>5741b48edb9d530011575d4e5e96193c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Revision history</sys_name>
+            <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ba_tools_ba_root_release_notes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 13:22:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

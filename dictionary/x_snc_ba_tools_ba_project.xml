@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="x_snc_ba_tools_ba_root" label="BA Project" max_length="40" name="x_snc_ba_tools_ba_project" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" hint="A Project Vision Statement is an idealistic view of the desired outcomes to be produced for the business after successful project completion. It is a vivid description of what the business will be like to inspire the project beneficiaries to initiate the project." label="Project vision statement" max_length="4000" name="vision" type="string_full_utf8"/>
+    </element>
+</database>

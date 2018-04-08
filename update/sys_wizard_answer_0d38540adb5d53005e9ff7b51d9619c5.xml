@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Functional Requirements</answer>
+        <button_label/>
+        <dependent_value/>
+        <element>active</element>
+        <name>Functional Requirement</name>
+        <next_question/>
+        <order>300</order>
+        <payload_name/>
+        <question display_value="BA Requierment" name="BA Requierment">02b49c46db5d53005e9ff7b51d961905</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 08:37:28</sys_created_on>
+        <sys_id>0d38540adb5d53005e9ff7b51d9619c5</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Functional Requirement</sys_name>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>sys_wizard_answer_0d38540adb5d53005e9ff7b51d9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 15:01:33</sys_updated_on>
+        <table>x_snc_ba_tools_ba_functional_requirments</table>
+        <target_url>x_snc_ba_tools_ba_functional_requirments.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

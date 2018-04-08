@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">You, as a Business Analyst, can help your stakeholders…  only if you understand their needs.</h1>
+<h2 class="title sectiontitle">Before the Interview</h2>
+<ul class="steps-unordered"><li class="li step">Find the right <em>stakeholders</em> to interview</li><li class="li step"><em>Start</em> with the sponsor</li><li class="li step">Define your <em>goals</em> for the interview</li><li class="li step">Set up the <em>meeting</em></li><li class="li step">Choose the right setting/<em>environment</em></li><li class="li step"><em>Learn</em> about your stakeholder: name, title, responsibilities</li></ul>
+<h2 class="title sectiontitle">During the Interview</h2>
+<ul class="steps-unordered"><li class="li step"><em>Introduce</em> yourself and your goal/purpose for the meeting</li><li class="li step"><em>Start</em> at the high level</li><li class="li step">Try to understand them more <em>deeply</em></li><li class="li step">Ask <em>open-ended</em> questions</li><li class="li step">If you <em>don’t understand</em> something, say so</li><li class="li step"><em>Recap</em> what they say to ensure you understand At the end, thank them</li><li class="li step">Ask them <em>who else</em> you need to speak with</li></ul>
+<h2 class="title sectiontitle">After the Interview</h2>
+<ul class="steps-unordered"><li class="li step">Write up your <em>notes</em></li><li class="li step"><em>E-mail</em> them to the stakeholder you interviewed for their input</li><li class="li step"><em>Thank</em> them again (it’s nice!)</li></ul>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>x_snc_ba_tools_interview-normal</name>
+        <page>x_snc_ba_tools_interview</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 09:56:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1fb9288adb9d530011575d4e5e96196e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_snc_ba_tools_interview-normal</sys_name>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>sys_embedded_help_content_1fb9288adb9d530011575d4e5e96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 10:01:59</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=1fb9288adb9d530011575d4e5e96196e"/>
+</record_update>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_ba_tools_ba_project" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="BA Project - Default view" name="x_snc_ba_tools_ba_project" related_list="NULL" sys_domain="global" view="Default view">1afca986db15930011575d4e5e9619df</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_ba_tools_ba_requirements.ba_project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 14:47:26</sys_created_on>
+            <sys_id>56fca986db15930011575d4e5e9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 14:47:26</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="BA Project - Default view" name="x_snc_ba_tools_ba_project" related_list="NULL" sys_domain="global" view="Default view">1afca986db15930011575d4e5e9619df</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_snc_ba_tools_ba_stakeholders.ba_project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 14:47:26</sys_created_on>
+            <sys_id>dafce986db15930011575d4e5e961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 14:47:26</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="BA Project - Default view" name="x_snc_ba_tools_ba_project" related_list="NULL" sys_domain="global" view="Default view">1afca986db15930011575d4e5e9619df</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>x_snc_ba_tools_interview.ba_project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 14:47:26</sys_created_on>
+            <sys_id>defce986db15930011575d4e5e961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 14:47:26</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="BA Project - Default view" name="x_snc_ba_tools_ba_project" related_list="NULL" sys_domain="global" view="Default view">1afca986db15930011575d4e5e9619df</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>x_snc_ba_tools_ba_visual.ba_project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 14:47:26</sys_created_on>
+            <sys_id>d2fce986db15930011575d4e5e96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 14:47:26</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>BA Project - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_ba_tools_ba_project</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 14:47:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1afca986db15930011575d4e5e9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BA Project - Default view</sys_name>
+            <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_ba_tools_ba_project_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 14:47:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

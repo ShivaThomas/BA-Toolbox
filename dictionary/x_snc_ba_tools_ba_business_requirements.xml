@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="x_snc_ba_tools_ba_requirements" label="Business Requirement" max_length="40" name="x_snc_ba_tools_ba_business_requirements" sizeclass="6" type="collection"/>
+</database>

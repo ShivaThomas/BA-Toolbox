@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>event_buttons</name>
+        <scoped_name>x_snc_ba_tools_event_buttons</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 14:55:43</sys_created_on>
+        <sys_id>ba7ea10adb9193005e9ff7b51d9619de</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>event_buttons</sys_name>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>sys_ui_macro_ba7ea10adb9193005e9ff7b51d9619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 16:35:42</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<style>
+
+		#f10e29c6db9193005e9ff7b51d96194e { background-color: #FF9900; border:2px solid #66757F; color: #ffffff; font-size:22px;}
+
+	</style>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

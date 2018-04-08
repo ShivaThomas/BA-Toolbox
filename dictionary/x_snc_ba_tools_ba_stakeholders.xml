@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="x_snc_ba_tools_ba_root" label="Stakeholders" max_length="40" name="x_snc_ba_tools_ba_stakeholders" sizeclass="9" type="collection">
+        <element display="true" label="Display name" max_length="120" name="display_name" read_only="true" type="string"/>
+        <element choice="1" label="Type of Stakeholder" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element hint="The business analyst is inherently a stakeholder in all business analysis activities. The BABOK® Guide presumes that the business analyst is responsible and accountable for the execution of these activities." label="Business Analyst" sequence="1" value="6"/>
+                <element hint="A customer uses or may use products or services produced by the enterprise and may have contractual or moral rights that the enterprise is obliged to meet." label="Customer" sequence="2" value="7"/>
+                <element hint="Provides the expertise within the business to provide input and feedback when evaluating solution alternatives, particularly for the potential benefits of a solution." label="Domain Subject Matter Expert" sequence="3" value="1"/>
+                <element hint="End users are stakeholders who directly interact with the solution. End users can include all participants in a business process, or who use the product or solution." label="End User" sequence="4" value="8"/>
+                <element hint="Use their expertise in terms of the design options being considered to provide needed input about the constraints of a solution and its costs." label="Implementation Subject Matter Expert" sequence="5" value="2"/>
+                <element hint="Can help evaluate the difficulty and costs of integrating proposed solutions with existing processes and systems." label="Operational Support" sequence="6" value="3"/>
+                <element hint="Plans and manages the solution definition process, including the solution scope and any risks associated with the proposed solutions." label="Project Manager" sequence="7" value="4"/>
+                <element hint="Regulators are responsible for the definition and enforcement of standards." label="Regulator" sequence="8" value="9"/>
+                <element hint="Sponsors are responsible for initiating the effort to define a business need and develop a solution that meets that need." label="Sponsor" sequence="9" value="11"/>
+                <element hint="Provides information on the functionality associated with a particular design option." label="Supplier" sequence="10" value="5"/>
+                <element hint="Testers are responsible for determining how to verify that the solution meets the requirements defined by the business analyst, as well as conducting the verification process." label="Tester" sequence="11" value="10"/>
+            </choice>
+        </element>
+        <element label="User" mandatory="true" max_length="32" name="user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+    </element>
+</database>

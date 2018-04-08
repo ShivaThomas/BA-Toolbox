@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Introduction to BA Toolbox">624d58cadb5d53005e9ff7b51d9619ba</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 09:00:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76ad900edb5d53005e9ff7b51d961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>624d58cadb5d53005e9ff7b51d9619ba</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_76ad900edb5d53005e9ff7b51d961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 09:00:57</sys_updated_on>
+        <tab display_value="Reporting">3ead900edb5d53005e9ff7b51d96195f</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

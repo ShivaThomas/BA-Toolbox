@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="BA Root" max_length="40" name="x_snc_ba_tools_ba_root" sizeclass="1" type="collection">
+        <element label="BA Project" mandatory="true" max_length="32" name="ba_project" reference="x_snc_ba_tools_ba_project" type="reference"/>
+        <element label="Owner" mandatory="true" max_length="32" name="owner" reference="x_snc_ba_tools_ba_stakeholders" reference_qual="active=true^ba_projectSAMEASba_project^EQ" reference_qual_condition="active=true^ba_projectSAMEASba_project^EQ" type="reference"/>
+        <element hint="Description on what changed to allow easier validation from the Stakeholders. Every time you enter new release notes, the version number will be increased by one." label="Revision history" max_length="4000" name="release_notes" type="journal"/>
+        <element label="Stakeholders" max_length="4000" name="stakeholders" reference="x_snc_ba_tools_ba_stakeholders" type="glide_list"/>
+        <element choice="1" label="Organizational Role" max_length="40" name="stkh_organizational_role" type="choice">
+            <choice>
+                <element label="Business Analyst" value="8"/>
+                <element label="Business Architect" value="6"/>
+                <element label="Business Owner-Sponsor" value="3"/>
+                <element label="CX representative" value="4"/>
+                <element label="Developer" value="9"/>
+                <element label="IT Owner" value="1"/>
+                <element label="Process Owner" value="2"/>
+                <element label="Project Manager" value="5"/>
+                <element label="Technical Architect" value="7"/>
+                <element label="Tester" value="10"/>
+            </choice>
+        </element>
+        <element default="1" label="Version" max_length="40" name="version" read_only="true" type="integer"/>
+    </element>
+</database>

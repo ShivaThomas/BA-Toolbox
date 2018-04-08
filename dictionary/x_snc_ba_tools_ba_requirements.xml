@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_snc_ba_tools_ba_root" label="Requirement" max_length="40" name="x_snc_ba_tools_ba_requirements" type="collection">
+        <element hint="Reason why the requirement is necessary or desired" label="Rationale" max_length="4000" name="rationale" type="string"/>
+        <element label="Required By" max_length="32" name="required_by" reference="sys_user" type="reference"/>
+        <element label="Validated by" max_length="32" name="validated_by" reference="sys_user" type="reference"/>
+        <element label="Validated on" max_length="40" name="validated_on" type="glide_date"/>
+    </element>
+</database>

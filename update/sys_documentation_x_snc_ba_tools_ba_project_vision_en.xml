@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="vision" label="Project vision statement" language="en" table="x_snc_ba_tools_ba_project">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vision</element>
+            <help/>
+            <hint>A Project Vision Statement is an idealistic view of the desired outcomes to be produced for the business after successful project completion. It is a vivid description of what the business will be like to inspire the project beneficiaries to initiate the project.</hint>
+            <label>Project vision statement</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_project</name>
+            <plural>Project vision statements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 13:25:06</sys_created_on>
+            <sys_id>842a95c6db11930011575d4e5e96191f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Project vision statement</sys_name>
+            <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ba_tools_ba_project_vision_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 13:50:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

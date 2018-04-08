@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="x_snc_ba_tools_ba_root" label="Interview" max_length="40" name="x_snc_ba_tools_interview" sizeclass="2" type="collection">
+        <element label="Meeting notes" max_length="65536" name="meeting_notes" type="html"/>
+    </element>
+</database>

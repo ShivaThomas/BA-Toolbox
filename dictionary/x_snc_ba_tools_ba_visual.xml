@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="x_snc_ba_tools_ba_root" label="Visual" max_length="40" name="x_snc_ba_tools_ba_visual" sizeclass="6" type="collection">
+        <element label="Screenshot" max_length="40" name="screenshot" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Mockup" sequence="0" value="mockup"/>
+                <element label="Use Case Model" sequence="1" value="use case model"/>
+                <element label="Data Entitiy Model" sequence="2" value="data entitiy model"/>
+                <element label="Business information model" sequence="3" value="business information model"/>
+                <element label="Technical information model" sequence="4" value="technical information model"/>
+                <element label="System Printscreen" sequence="5" value="system printscreen"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Link/URL" max_length="1024" name="u_url_1" type="url"/>
+        <element label="Validated by" max_length="32" name="validated_by" reference="sys_user" type="reference"/>
+        <element label="Validated on" max_length="40" name="validated_on" type="glide_date_time"/>
+    </element>
+</database>

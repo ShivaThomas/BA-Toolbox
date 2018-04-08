@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="validated_on" label="Validated on" language="en" table="x_snc_ba_tools_ba_visual">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>validated_on</element>
+            <help/>
+            <hint/>
+            <label>Validated on</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_visual</name>
+            <plural>Validated ons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 12:52:35</sys_created_on>
+            <sys_id>bfa2d5c2db1193005e9ff7b51d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Validated on</sys_name>
+            <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ba_tools_ba_visual_validated_on_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 12:52:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

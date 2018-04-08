@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_snc_ba_tools_ba_stakeholders" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>The business analyst is inherently a stakeholder in all business analysis activities. The BABOK® Guide presumes that the business analyst is responsible and accountable for the execution of these activities.</hint>
+            <inactive>false</inactive>
+            <label>Business Analyst</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:32:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fd698c6db5d53005e9ff7b51d96197a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:40:40</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>A customer uses or may use products or services produced by the enterprise and may have contractual or moral rights that the enterprise is obliged to meet.</hint>
+            <inactive>false</inactive>
+            <label>Customer</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:32:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0271cc6db5d53005e9ff7b51d9619a7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:40:45</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Provides the expertise within the business to provide input and feedback when evaluating solution alternatives, particularly for the potential benefits of a solution.</hint>
+            <inactive>false</inactive>
+            <label>Domain Subject Matter Expert</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:55:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b5d88cedb1d53005e9ff7b51d961957</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:40:50</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>End users are stakeholders who directly interact with the solution. End users can include all participants in a business process, or who use the product or solution.</hint>
+            <inactive>false</inactive>
+            <label>End User</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:33:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2257dcc6db5d53005e9ff7b51d961901</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:40:54</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Use their expertise in terms of the design options being considered to provide needed input about the constraints of a solution and its costs.</hint>
+            <inactive>false</inactive>
+            <label>Implementation Subject Matter Expert</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:56:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56be0802db5d53005e9ff7b51d961951</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:40:59</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Can help evaluate the difficulty and costs of integrating proposed solutions with existing processes and systems.</hint>
+            <inactive>false</inactive>
+            <label>Operational Support</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:56:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acdec402db5d53005e9ff7b51d96194b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:41:05</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Plans and manages the solution definition process, including the solution scope and any risks associated with the proposed solutions.</hint>
+            <inactive>false</inactive>
+            <label>Project Manager</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:57:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c90f4c02db5d53005e9ff7b51d9619a8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:41:12</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Regulators are responsible for the definition and enforcement of standards.</hint>
+            <inactive>false</inactive>
+            <label>Regulator</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:34:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9979cc6db5d53005e9ff7b51d9619ad</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:41:17</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Sponsors are responsible for initiating the effort to define a business need and develop a solution that meets that need.</hint>
+            <inactive>false</inactive>
+            <label>Sponsor</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:41:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a439104adb5d53005e9ff7b51d961944</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:41:59</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Provides information on the functionality associated with a particular design option.</hint>
+            <inactive>false</inactive>
+            <label>Supplier</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:57:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f1fcc02db5d53005e9ff7b51d96198d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:42:07</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint>Testers are responsible for determining how to verify that the solution meets the requirements defined by the business analyst, as well as conducting the verification process.</hint>
+            <inactive>false</inactive>
+            <label>Tester</label>
+            <language>en</language>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 08:40:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6e7dcc6db5d53005e9ff7b51d9619e4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 08:42:10</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_snc_ba_tools_ba_stakeholders</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-07 07:55:30</sys_created_on>
+            <sys_id>bfaec402db5d53005e9ff7b51d96191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+            <sys_update_name>sys_choice_x_snc_ba_tools_ba_stakeholders_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-07 07:55:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="content_block_static">
+    <content_block_static action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Requirements</name>
+        <static_content><![CDATA[<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><strong><span style="font-family: &#39;Arial&#39;,sans-serif;">This is a short introduction to Business Analysis Body of Knowledge® (BABOK®), the global standard that is the base of the BA Toolbox solution for create and manage requirements for projects</span></strong></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"> </p>
+<h1 style="margin: 2.4pt 0cm; font-size: 24pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 18pt; font-family: Arial, sans-serif; color: #596164;">IIBA</span></h1>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">IIBA</span><sup style="box-sizing: border-box; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;">®</sup><span style="font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;"> is the non-profit professional association dedicated to the field of business analysis. Through a global network, IIBA connects over 29,000&#43; Members and more than 300 Corporate Members and 120 Chapters. As the voice of the business analysis community, IIBA supports the recognition of the profession and discipline and works to maintain the global standard for the practices and certification.</span></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"><a style="color: #0563c1; text-decoration: underline;" href="https://www.iiba.org/" rel="nofollow">https://www.iiba.org/</a></span></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"> </p>
+<h1 style="margin: 2.4pt 0cm; font-size: 24pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 18pt; font-family: Arial, sans-serif; color: #596164;">BABOK</span></h1>
+<h4 style="margin: 2.4pt 0cm; box-sizing: border-box; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; break-after: avoid; font-size: 11pt; font-family: &#39;Calibri Light&#39;, sans-serif; color: #2e74b5; font-weight: normal; font-style: italic;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666; font-style: normal;">The definitive community-based and consensus-driven Global Standard in business analysis.</span></h4>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><em><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">BABOK<sup style="box-sizing: border-box;">®</sup> Guide</span></em><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;"><span style="font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; float: none; word-spacing: 0px;"> expands the scope of business analysis, providing essential direction and support for practitioners in areas such as agile, business intelligence, information technology, business architecture and business process management.</span></span></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif;"><a style="color: #0563c1; text-decoration: underline;" href="https://www.iiba.org/babok-guide.aspx" rel="nofollow">https://www.iiba.org/bazok-guide.aspx</a></span></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"> </p>
+<h1 style="margin: 2.4pt 0cm; font-size: 24pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 18pt; font-family: Arial, sans-serif; color: #596164;">Requirement</span></h1>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">“A requirement is a usable representation of a need. Requirements focus on understanding what kind of value could be delivered if a requirement is fulfilled. The nature of the representation may be a document (or set of documents), but can vary widely depending on the circumstances.”</span></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif; text-align: right;"><em><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">Guide to the Business Analysis Body of </span></em><em><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">Knowledge (BABOK), Version 3</span></em></p>
+<p style="margin: 2.4pt 0cm; font-size: 11pt; font-family: Calibri, sans-serif;"> </p>
+<h1 style="margin: 2.4pt 0cm; font-size: 24pt; font-family: &#39;Times New Roman&#39;, serif;"><span style="font-size: 18pt; font-family: Arial, sans-serif; color: #596164;">Requirements Classification Schema</span></h1>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">For the purposes of the BABOK® Guide, the following classification schema describes requirements:</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• Business requirements: statements of goals, objectives, and outcomes that describe why a change has been initiated. They can apply to the whole of an enterprise, a business area, or a specific initiative.</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• Stakeholder requirements: describe the needs of stakeholders that must be met in order to achieve the business requirements. They may serve as a bridge between business and solution requirements.</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• Solution requirements: describe the capabilities and qualities of a solution that meets the stakeholder requirements. They provide the appropriate level of detail to allow for the development and implementation of the solution. Solution requirements can be divided into two sub-categories:</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• functional requirements: describe the capabilities that a solution must have in terms of the behaviour and information that the solution will manage, and</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• non-functional requirements or quality of service requirements: do not relate directly to the behaviour of functionality of the solution, but rather describe conditions under which a solution must remain effective or qualities that a solution must have.</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-family: &#39;Arial&#39;,sans-serif; color: #666666;">• Transition requirements: describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. They are differentiated from other requirements  types because they are of a temporary nature.</span></p>]]></static_content>
+        <sys_class_name>content_block_static</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 09:05:12</sys_created_on>
+        <sys_id>8a7e180edb5d53005e9ff7b51d9619f0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Requirements</sys_name>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>content_block_static_8a7e180edb5d53005e9ff7b51d9619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 14:07:30</sys_updated_on>
+    </content_block_static>
+    <sys_translated_text action="delete_multiple" query="documentkey=8a7e180edb5d53005e9ff7b51d9619f0"/>
+</record_update>

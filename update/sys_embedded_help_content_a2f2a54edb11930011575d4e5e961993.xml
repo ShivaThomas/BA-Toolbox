@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<p>Good requirements have certain attributes:</p>
+<p>Clear</p>
+<p>Complete</p>
+<p>Applicable</p>
+<p>Prioritized</p>
+<p>Implementable</p>
+<p>Testable</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>x_snc_ba_tools_ba_requirements_list-normal</name>
+        <page>x_snc_ba_tools_ba_requirements_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-07 14:04:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a2f2a54edb11930011575d4e5e961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ba_tools_ba_requirements_list-normal</sys_name>
+        <sys_package display_value="BA Tools" source="x_snc_ba_tools">f2db8c0edb1d53005e9ff7b51d961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BA Tools">f2db8c0edb1d53005e9ff7b51d961932</sys_scope>
+        <sys_update_name>sys_embedded_help_content_a2f2a54edb11930011575d4e5e961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-07 14:04:37</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=a2f2a54edb11930011575d4e5e961993"/>
+</record_update>
